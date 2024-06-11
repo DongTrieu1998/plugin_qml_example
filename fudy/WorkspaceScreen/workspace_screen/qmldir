@@ -1,0 +1,4 @@
+module workspace_screen
+plugin WorkspaceScreen
+WorkspaceScreen 1.0 qrc:/WorkspaceScreen.qml
+typeinfo plugin.qmltypes

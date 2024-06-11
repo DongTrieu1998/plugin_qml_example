@@ -1,0 +1,4 @@
+module note_screen
+plugin NoteScreen
+NoteScreen 1.0 qrc:/NoteScreen.qml
+typeinfo plugin.qmltypes

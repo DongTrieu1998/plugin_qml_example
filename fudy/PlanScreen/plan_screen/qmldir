@@ -1,0 +1,4 @@
+module plan_screen
+plugin PlanScreen
+PlanScreen 1.0 qrc:/PlanScreen.qml
+typeinfo plugin.qmltypes
